@@ -1,4 +1,4 @@
-[README.md](https://github.com/cnxuzhou/xssh/files/11046445/README.md)
+(https://github.com/cnxuzhou/xssh/files/11046445/README.md)
 这儿为你准备了众多免费好用的ChatGPT镜像站点
 
 发布网站： http://wangzimo.top/ (😃敬请收藏)
