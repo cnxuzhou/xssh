@@ -12,7 +12,7 @@
 ❓ :未测试，未进行标注也为未测试
 
 
-👆http://chatgpt3.icu [ad.]
+[⭐⭐] https://ai.bo-e.com/
 
 [⭐⭐] https://theb.ai/
 
@@ -23,8 +23,6 @@
 [⭐⭐] https://chat2.geekr.dev
 
 [⭐⭐] https://qachat.vercel.app
-
-[⭐⭐] https://ai.bo-e.com/
 
 [⭐⭐] https://chat2.xeasy.me
 
