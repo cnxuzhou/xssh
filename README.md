@@ -13,7 +13,7 @@
 ❓ :未测试，未进行标注也为未测试
 
 
-[⭐⭐] https://ai.bo-e.com/
+[⭐⭐] https://chat.bo-e.com/
 
 [⭐⭐] https://theb.ai/
 
